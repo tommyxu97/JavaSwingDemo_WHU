@@ -1,0 +1,4 @@
+Code,Name,Price,Stock
+1,Java_Programming,34.0,98
+2,Fluent_Python,28.0,98
+3,Data_Structure,30.5,95

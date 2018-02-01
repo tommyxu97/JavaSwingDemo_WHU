@@ -1,0 +1,7 @@
+Index,Code,Name,Staff,Number,Price,TotalPrice
+1,1,Java_Programming,Tom,2,34.0,68.0
+2,1,Java_Programming,Jenny,3,34.0,102.0
+3,2,Fluent_Python,Tom,1,28.0,28.0
+4,3,Data_Structure,Tommy,3,3,30.5,91.5
+5,1,Java_Programming,Tommy,2,2,34.0,68.0
+6,2,Fluent_Python,Tommy,2,2,28.0,56.0
