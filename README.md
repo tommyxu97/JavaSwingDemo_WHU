@@ -1,13 +1,13 @@
+## WHU Java程序设计公选课计结课作业，可供参考#滑稽
+> 如果有更新的话可以联系我~
+
+---
+
 # Books Manager-Java Programming Job(WHU)
 
 Programming job of Java Programming in WHU, instructor: Mr Z.Kang
 
-Completed by Tommy(Haotian) Xu `ID:2015300070038 School:EMS` in `Fri. 15th,Dec,2017`
-
-* [Screen Shots] (#screen_shots)
-* [Project File Tree] (#project_file_tree)
-* [Design Model] (#design_model)
-* [Source Code] (#source_code)
+Completed by Tommy(Haotian) Xu in `Fri. 15th,Dec,2017`
 
 ## Screen Shots
 
@@ -110,4 +110,4 @@ Frame java files provides the User's Interface which is shown in the [screen sho
 
 mJFont set user's own fonts.
 
-mJButton is not used by the program until now, at first I want to design more beautiful button with image, but at last give it up...
+mJButton is not used by the program until now.
